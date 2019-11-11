@@ -2,7 +2,9 @@
 Customize a horizontal listview with left/right button on uwp
 
 SO link: https://stackoverflow.com/questions/58298747/how-to-customize-a-horizontal-listview-with-left-right-button-on-uwp
-cnBlog: 
+
+cnBlog: https://www.cnblogs.com/hupo376787/p/11837285.html
+
 Usage:
 
 
