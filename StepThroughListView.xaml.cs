@@ -2,12 +2,11 @@
 using System.Collections;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
-using ViuforHome.Helpers;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Input;
 
-namespace ViuforHome.Controls
+namespace Demo.Controls
 {
     public sealed partial class StepThroughListView : UserControl, INotifyPropertyChanged
     {
